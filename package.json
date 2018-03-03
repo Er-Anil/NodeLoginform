@@ -1,0 +1,17 @@
+{
+  "name": "loginform",
+  "version": "1.0.0",
+  "description": "siple login form in node js with ejs and mongodb database",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "anil",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongodb": "^3.0.3",
+    "mongoose": "^5.0.7"
+  }
+}
